@@ -1,6 +1,3 @@
 # Matrioska 🪆🧸🇷🇺
-Projeto de implementação dos planos de espionagem russo no Brasil
+Sou estudante de História no Instituto Federal de Goiás (IFG) e também de Ciência de Dados. Tenho grande interesse em política, filosofia e análise crítica da sociedade, buscando unir as humanidades com o uso estratégico de dados. Desenvolvo pesquisas sobre cultura de massa, hegemonia e Guerra Fria, especialmente na relação entre ideologia e quadrinhos. Procuro sempre conectar teoria, pesquisa e prática, com foco em impacto acadêmico e social.
 
-Colocar em prática o uso da cultura, economia e política russa, através da universidade, escola, instituições governamentais e organizações 
-
-## Rasputin e 108 anos da revolução Russa
